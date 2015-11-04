@@ -1,71 +1,61 @@
-Markdown Resumé
+Mitchell Huang
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
-
-Work Experience
----------------
-
-*   **Word Processor** (Redmond, WA)
-
-    *Junior Resumé Maker*, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    *Senior Resumé Maker*, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    *Web Resumé Intern*, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+2432 Milvia St, Berkeley, CA, 94704
+mitchell@mitchellhuang.net
+(240) 246-6548
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **University of California, Berkeley** (Berkeley, CA)
 
-    *B.S. in Submodules*, May 2012
+    -   B.A. in Computer Science (August 2014 -- May 2018)
 
+Work Experience
+---------------
+
+*   **Massdrop, Inc** (San Francisco, CA)
+
+    Software engineering intern, May 2015 -- August 2015
+
+    -   Re-engineered massdrop.com from PHP to an event driven Node.js/React stack.
+    -   Contributed heavily towards the full-stack development of the site (written entirely in Javascript).
+    -   Integrated Bitcoin payments into the site using BitPay's payment API/gateway.
+    -   Massdrop acquired a $40 million series B fundraising round during my time there.
+
+*   **Reddit Unofficial Gaming Community** (New York, NY)
+
+    Founder and co-moderator, September 2012 -- January 2014
+
+    -   Founded the /r/tf2eastcoast gaming community and managed its administrators, game servers, and websites.
+    -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand
+        game servers. (see github.com/huangbong/tf2-ultiduo)
+    -   The main server in NYC was among the top 100 most trafficked TF2 servers in the world according to gametracker.com.
+
+*   **National Institutes of Health -- Structural Biophysics Laboratory** (Frederick, MD)
+
+    Software engineering intern, June 2012 -- August 2012
+
+    -   Developed Python programs that created 2D and 3D nuclear magnetic resonance (NMR) sampling
+        tables for scientific experiments.
+    -   Implemented non-uniform table sampling (NUS) algorithms to speed up data collection in NMR
+        experiments. (see Publications)
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   **Programming languages**
+    -   Python, Java, Go, PHP, Node.js/Javascript, C, C++, MIPS Assembly
+*   **Database technologies**
+    -   MySQL, PostgreSQL, Redis, MongoDB, memcached, SQLite
+*   **Deployment/DevOps**
+    -   Amazon AWS: EC2, S3, Cloudfront, RDS, Route 53
+    -   Virtualization: Xen, KVM, OpenVZ, LXC, Docker
 
-*   Familiar with GNU Make, bash
+Publications
+------
 
-
+*   "Efficient and generalized processing of multidimensional NUS NMR data: the NESTA algorithm
+    and comparison of regularization term", Shangjin Sun, Michelle Gill, Yifei Li, Mitchell Huang
+    and R. Andrew Byrd, Journal of Biomolecular NMR, DOI 10.1007/s10858-015-9923-x.
