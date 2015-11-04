@@ -30,8 +30,8 @@ Work Experience
 
     -   Founded the /r/tf2eastcoast gaming community and managed its administrators, game servers, and websites.
     -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand
-        game servers. (see github.com/huangbong/tf2-ultiduo)
-    -   The main server in NYC was among the top 100 most trafficked TF2 servers in the world according to gametracker.com.
+        game servers (see github.com/huangbong/tf2-ultiduo).
+    -   Our main server in NYC was among the top 100 most trafficked TF2 servers in the world according to gametracker.com.
 
 *   **National Institutes of Health -- Structural Biophysics Laboratory** (Frederick, MD)
 
@@ -40,7 +40,7 @@ Work Experience
     -   Developed Python programs that created 2D and 3D nuclear magnetic resonance (NMR) sampling
         tables for scientific experiments.
     -   Implemented non-uniform table sampling (NUS) algorithms to speed up data collection in NMR
-        experiments. (see Publications)
+        experiments (see Publications).
 
 Skills
 ------
@@ -49,7 +49,7 @@ Skills
     -   Python, Java, Go, PHP, Node.js/Javascript, C, C++, MIPS Assembly
 *   **Database technologies**
     -   MySQL, PostgreSQL, Redis, MongoDB, memcached, SQLite
-*   **Deployment/DevOps**
+*   **Deployment/DevOps technologies**
     -   Amazon AWS: EC2, S3, Cloudfront, RDS, Route 53
     -   Virtualization: Xen, KVM, OpenVZ, LXC, Docker
 
