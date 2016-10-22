@@ -10,18 +10,17 @@ Education
 
 *   **University of California, Berkeley** (Berkeley, CA)
 
-    -   B.A. in Computer Science (August 2014 -- May 2018)
+    -   B.A. in Computer Science
 
 Work Experience
 ---------------
 
 *   **Massdrop, Inc** (San Francisco, CA)
 
-    Software engineering intern, May 2015 -- August 2015
+    Software engineer, May 2015 -- August 2016
 
     -   Re-engineered massdrop.com from PHP to an event driven Node.js/React stack.
-    -   Contributed heavily towards the full-stack development of the site (written entirely in Javascript).
-    -   Integrated Bitcoin payments into the site using BitPay's payment API/gateway.
+    -   Lead the development of a native iOS/Android app using react-native.
     -   Massdrop acquired a $40 million series B fundraising round during my time there.
 
 *   **Reddit Unofficial Gaming Community** (New York, NY)
@@ -31,7 +30,7 @@ Work Experience
     -   Founded the /r/tf2eastcoast gaming community and managed its administrators, game servers, and websites.
     -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand
         game servers (see github.com/huangbong/tf2-ultiduo).
-    -   Our main server in NYC was among the top 100 most trafficked TF2 servers in the world according to gametracker.com.
+    -   Our main server in NYC was ranked among the top 100 most trafficked TF2 servers in the world.
 
 *   **National Institutes of Health -- Structural Biophysics Laboratory** (Frederick, MD)
 
@@ -46,12 +45,12 @@ Skills
 ------
 
 *   **Programming languages**
-    -   Python, Java, Go, PHP, Node.js/Javascript, C, C++, MIPS Assembly
+    -   Javascript (full-stack, isomorphic), Python, Java, Go, PHP, C, C++, MIPS
 *   **Database technologies**
-    -   MySQL, PostgreSQL, Redis, MongoDB, memcached, SQLite
-*   **Deployment/DevOps technologies**
-    -   Amazon AWS: EC2, S3, Cloudfront, RDS, Route 53
-    -   Virtualization: Xen, KVM, OpenVZ, LXC, Docker
+    -   PostgreSQL, MySQL, Redis, MongoDB, memcached, SQLite
+*   **Deployment technologies**
+    -   In no apparent order: Amazon AWS, Docker, Xen, KVM, OpenVZ, LXC, Chef, Puppet, Jenkins,
+    Ansible, nginx, Linux, Codeship, Travis CI, Rollbar, PM2, varnish, etc...
 
 Publications
 ------
