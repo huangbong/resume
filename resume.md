@@ -48,7 +48,7 @@ Skills
     -   Javascript (full-stack, isomorphic), Python, Java, Go, PHP, C, C++, MIPS
 *   **Database technologies**
     -   PostgreSQL, MySQL, Redis, MongoDB, memcached, SQLite
-*   **Deployment technologies**
+*   **DevOps technologies**
     -   In no apparent order: Amazon AWS, Docker, Xen, KVM, OpenVZ, LXC, Chef, Puppet, Jenkins,
     Ansible, nginx, Linux, Codeship, Travis CI, Rollbar, PM2, varnish, etc...
 
