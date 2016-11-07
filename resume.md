@@ -3,14 +3,14 @@ Mitchell Huang
 
 2432 Milvia St, Berkeley, CA, 94704
 mitchell@mitchellhuang.net
-(240) 246-6548
+\(240\) 246-6548
 
 Education
 ---------
 
 *   **University of California, Berkeley** (Berkeley, CA)
 
-    -   B.A. in Computer Science
+    -   B.A. Computer Science
 
 Work Experience
 ---------------
