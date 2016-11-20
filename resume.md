@@ -3,7 +3,7 @@ Mitchell Huang
 
 2432 Milvia St, Berkeley, CA, 94704
 mitchell@mitchellhuang.net
-\(240\) 246-6548
+(240) 246-6548
 
 Education
 ---------
@@ -15,13 +15,13 @@ Education
 Work Experience
 ---------------
 
-*   **Massdrop, Inc** (San Francisco, CA)
+*   **Massdrop** (San Francisco, CA)
 
     Software engineer, May 2015 -- August 2016
 
     -   Re-engineered massdrop.com from PHP to an event driven Node.js/React stack.
     -   Lead the development of a native iOS/Android app using react-native.
-    -   Massdrop acquired a $40 million series B fundraising round during my time there.
+    -   Massdrop acquired a $40 million series B during my time there.
 
 *   **Reddit Unofficial Gaming Community** (New York, NY)
 
@@ -32,7 +32,7 @@ Work Experience
         game servers (see github.com/huangbong/tf2-ultiduo).
     -   Our main server in NYC was ranked among the top 100 most trafficked TF2 servers in the world.
 
-*   **National Institutes of Health -- Structural Biophysics Laboratory** (Frederick, MD)
+*   **National Institutes of Health** (Frederick, MD)
 
     Software engineering intern, June 2012 -- August 2012
 
