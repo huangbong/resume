@@ -17,29 +17,23 @@ Work Experience
 
 *   **Massdrop** (San Francisco, CA)
 
-    Software engineer, May 2015 -- August 2016
+    Full-stack software engineer, May 2015 -- August 2016
 
-    -   Re-engineered massdrop.com from PHP to an event driven Node.js/React stack.
-    -   Lead the development of a native iOS/Android app using react-native.
+    -   Re-engineered Massdrop from PHP to an event driven Node.js/React single page app.
+    -   Developed the “masterpiece” composition area of our new Talk feature using Draft.js.
+    -   Integrated bitcoin payments via BitPay into our React front-end and API.
+    -   Performed various A/B tests alongside our product team to increase user conversion.
+    -   Lead the development of a native iOS/Android alpha app using react-native.
     -   Massdrop acquired a $40 million series B during my time there.
 
 *   **Reddit Unofficial Gaming Community** (New York, NY)
 
-    Founder and co-moderator, September 2012 -- January 2014
+    Founder, co-moderator, and engineer, September 2012 -- January 2014
 
-    -   Founded the /r/tf2eastcoast gaming community and managed its administrators, game servers, and websites.
-    -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand
-        game servers (see github.com/huangbong/tf2-ultiduo).
-    -   Our main server in NYC was ranked among the top 100 most trafficked TF2 servers in the world.
-
-*   **National Institutes of Health** (Frederick, MD)
-
-    Software engineering intern, June 2012 -- August 2012
-
-    -   Developed Python programs that created 2D and 3D nuclear magnetic resonance (NMR) sampling
-        tables for scientific experiments.
-    -   Implemented non-uniform table sampling (NUS) algorithms to speed up data collection in NMR
-        experiments (see Publications).
+    -   Founded the /r/tf2eastcoast gaming community and moderated the /r/rugc subreddit.
+    -   Managed its game servers, DevOps infrastructure, and administrators.
+    -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand game servers (see github.com/huangbong/tf2-ultiduo).
+    -   At its peak, our main server in New York City was ranked among the top 10 most trafficked Team Fortress 2 servers in the world according to Gametracker.com.
 
 Skills
 ------
@@ -49,8 +43,7 @@ Skills
 *   **Database technologies**
     -   PostgreSQL, MySQL, Redis, MongoDB, memcached, SQLite
 *   **DevOps technologies**
-    -   In no apparent order: Amazon AWS, Docker, Xen, KVM, OpenVZ, LXC, Chef, Puppet, Jenkins,
-    Ansible, nginx, Linux, Codeship, Travis CI, Rollbar, PM2, varnish, etc...
+    -   Linux, Amazon AWS, Kubernetes, Docker, Xen, KVM, OpenVZ, LXC, Chef, Puppet, Jenkins, Ansible, NGINX, HAProxy, Codeship, Travis, Rollbar, Varnish, etc...
 
 Publications
 ------
