@@ -31,7 +31,7 @@ Work Experience
     Founder, co-moderator, and engineer, September 2012 -- January 2014
 
     -   Founded the /r/tf2eastcoast gaming community and moderated the /r/rugc subreddit.
-    -   Managed its game servers, DevOps infrastructure, and administrators.
+    -   Managed its game servers, DevOps infrastructure, community, and administrators.
     -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand game servers (see github.com/huangbong/tf2-ultiduo).
     -   At its peak, our main server in New York City was ranked among the top 10 most trafficked Team Fortress 2 servers in the world according to Gametracker.com.
 
