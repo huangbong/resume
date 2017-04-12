@@ -17,7 +17,7 @@ Work Experience
 
 *   **Massdrop** (San Francisco, CA)
 
-    Full-stack software engineer, May 2015 -- August 2016
+    Full-stack software engineer, May 2014 -- August 2016
 
     -   Re-engineered Massdrop from PHP to an event driven Node.js/React single page app.
     -   Developed the “masterpiece” composition area of our new Talk feature using Draft.js.
