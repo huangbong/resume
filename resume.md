@@ -1,7 +1,7 @@
 Mitchell Huang
 ===============
 
-2432 Milvia St, Berkeley, CA, 94704
+https://mitchellhuang.net
 mitchell@mitchellhuang.net
 (240) 246-6548
 
@@ -10,40 +10,58 @@ Education
 
 *   **University of California, Berkeley** (Berkeley, CA)
 
-    -   B.A. Computer Science
+    -   Computer science student, August 2014 -- December 2015
 
-Work Experience
+
+Background
+----------
+
+*   Experienced in architecting full-stack web applications and microservices, mostly for smaller companies and startups. Preferred web stack is Node.js/TypeScript/React. Enjoy being a wearer of many hats. Other interests are in distributed systems, infrastructure as code, and continuous integration + delivery.
+
+Experience
 ---------------
+
+*   **Ginger Labs** (San Francisco, CA)
+
+    Senior software engineer, August 2018 -- present
+
+    -   Directly responsible for provisioning, maintaining, and deploying web applications to our staging and production Kubernetes (k8s) clusters on Google Cloud Platform (GCP).
+    -   Directly responsible for API feature development on our Node.js/TypeScript backend.
+    -   Re-wrote our CI/CD CircleCI workflow to build and deploy our Dockerized software to k8s.
+    -   Developed a GitHub bot to assign and deploy pull requests to our staging environment.
+    -   Re-designed our user account system to issue a JSON Web Token (JWT) for API authentication.
+    -   Migrated our primary RDBMS from MySQL to PostgreSQL.
+    -   Integrated Elasticsearch into our API for fast document searching and indexing.
+    -   Explored alternative NoSQL document databases like Google Cloud Firestore for storing small, 160-byte conflict-free replicated data type (CRDT) objects.
+
+*   **Tetrabis** (San Francisco, CA)
+
+    Co-founder, June 2017 -- April 2018
+
+    -   Developed an on-demand cannabis ordering and delivery platform similar to Eaze using Next.js, Node.js, GraphQL, and PostgreSQL.
+    -   Worked with co-founder to source cannabis products from licensed cannabis distributors and growers to sell on the platform.
+    -   Attended numerous dispensary licensing public policy meetings in San Francisco and Berkeley.
+    -   Interviewed for the Y Combinator Winter 2018 batch.
 
 *   **Massdrop** (San Francisco, CA)
 
-    Full-stack software engineer, May 2014 -- August 2016
+    Software engineer, May 2014 -- August 2016
 
-    -   Re-engineered Massdrop from PHP to an event driven Node.js/React single page app.
+    -   Re-engineered Massdrop from PHP to an event driven Node.js/React single page app (SPA).
     -   Developed the “masterpiece” composition area of our new Talk feature using Draft.js.
-    -   Integrated bitcoin payments via BitPay into our React front-end and API.
+    -   Integrated bitcoin payments via BitPay into our React frontend and Node.js API.
     -   Performed various A/B tests alongside our product team to increase user conversion.
     -   Lead the development of a native iOS/Android alpha app using react-native.
-    -   Massdrop acquired a $40 million series B during my time there.
-
-*   **Reddit Unofficial Gaming Community** (New York, NY)
-
-    Founder, co-moderator, and engineer, September 2012 -- January 2014
-
-    -   Founded the /r/tf2eastcoast gaming community and moderated the /r/rugc subreddit.
-    -   Managed its game servers, DevOps infrastructure, community, and administrators.
-    -   Developed a Node.js tournament application with Steam OpenID and Amazon EC2 for on-demand game servers (see github.com/huangbong/tf2-ultiduo).
-    -   At its peak, our main server in New York City was ranked among the top 10 most trafficked Team Fortress 2 servers in the world according to Gametracker.com.
 
 Skills
 ------
 
 *   **Programming languages**
-    -   Javascript (full-stack, isomorphic), Python, Java, Go, PHP, C, C++, MIPS
+    -   Javascript (Node.js/React), Python, Java, Go, PHP, C, C++, MIPS
 *   **Database technologies**
-    -   PostgreSQL, MySQL, Redis, MongoDB, memcached, SQLite
+    -   PostgreSQL, MySQL, Redis, memcached, MongoDB, DynamoDB, Elasticsearch, SQLite
 *   **DevOps technologies**
-    -   Linux, Amazon AWS, Kubernetes, Docker, Xen, KVM, OpenVZ, LXC, Chef, Puppet, Jenkins, Ansible, NGINX, HAProxy, Codeship, Travis, Rollbar, Varnish, etc...
+    -   Linux, AWS, GCP, Kubernetes, Docker, CircleCI, Drone, Jenkins, Ansible, NGINX, Varnish
 
 Publications
 ------
